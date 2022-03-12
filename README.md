@@ -7,6 +7,7 @@ Redesigned for dual board Arduino nano stereo mode and add band selector,
 band selector:
 
 0 - 10 kHz
+
 0 - 20 kHz
 
 https://github.com/s59kb/32_Band_Spectrum_Analyzer_LL_DD
