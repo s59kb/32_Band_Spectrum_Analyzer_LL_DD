@@ -12,6 +12,8 @@ band selector:
 
 https://github.com/s59kb/32_Band_Spectrum_Analyzer_LL_DD
 
+![final](https://user-images.githubusercontent.com/45337128/158031046-ba8f3636-5333-4126-892f-44a33838ed95.jpg)
+
 ![SpecAnalyzer_LR_64x8_Led](https://user-images.githubusercontent.com/45337128/158030893-eba3d952-b4fb-4604-ad98-1d8cfe894678.jpg)
 
 --------------------------------------------------------------------------
